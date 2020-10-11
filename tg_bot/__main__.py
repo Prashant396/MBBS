@@ -38,7 +38,7 @@ HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS LEGEND](https://t.me/alongangster).
 
 HIT HELP FOR COMMANDS  /help
 """
