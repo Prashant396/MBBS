@@ -60,8 +60,11 @@ I AM A GROUP MANAGER BOT MAINTAINED BY
 
 [MBBSLOVER](@mbbs_lover).
 
-MBBS_IMG (https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
-
+<p align="center">
+    <a href="https://github.com/ayushop599/HellBot"><img src="https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg" alt="MBBS_LOVER" width=400px></a>
+        <br>
+            <br>
+            </p>
 
 HIT HELP FOR COMMANDS  /help
 """
