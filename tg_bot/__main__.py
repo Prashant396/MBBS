@@ -60,7 +60,7 @@ I AM A GROUP MANAGER BOT MAINTAINED BY
 
 [MBBSLOVER](@mbbs_lover).
 
-[MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
+MBBS_IMG (https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
 
 
 HIT HELP FOR COMMANDS  /help
