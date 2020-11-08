@@ -29,7 +29,7 @@ PM_START_TEXT = """
 
 [MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
 
-[┳┻┳┻╭━━━━╮╱▔▔▔╲
+┳┻┳┻╭━━━━╮╱▔▔▔╲
 ┻┳┻┳┃╯╯╭━┫▏╰╰╰▕
 ┳┻┳┻┃╯╯┃▔╰┓▔▂▔▕╮
 ┻┳┻┳╰╮╯┃┈╰┫╰━╯┏╯
@@ -44,7 +44,7 @@ PM_START_TEXT = """
 ┳┻┳┻┳┻┃┃┃'''┊┃┈┃┃
 ┻┳┻┳┻┳┃┃┃┈'''┃┈┃┃.
 ┳┻┳┻┳┻┣╋┫'''┊┣━╋┫
-┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰╮](@mbbs_lover)
+┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰
 
 
 
@@ -52,13 +52,13 @@ I ÃM YØUR ❤️LÖVELY FIGHTER BÖT™
  ❤️ PÕwErfuLLY RELOADED TO CøNTRØL YÖúR GRøUPS  AñD YÕU TØ💉💉❤️
 
   ▂▃▅▆😈MY CREATOR😈▆▅▃▂
-👇👇               👇👇
-🔱╚»★@MBBS_LOVER★«╝🔱
+👇👇                 👇👇
+ 🔱╚»★@MBBS_LOVER★«╝🔱
 HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](@mbbs_lover).
+[MBBSLOVER](@mbbs_lover).
 
 HIT HELP FOR COMMANDS  /help
 """
