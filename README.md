@@ -11,7 +11,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/gangsterkimng/RDX)
 
 
 
-[![RDX](https://telegra.ph/file/7da7c176e9bd843db2063.jpg)]
+[![RDX](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)]
 
 
 
