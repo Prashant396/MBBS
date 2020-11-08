@@ -43,8 +43,11 @@ PM_START_TEXT = """
 ┳┻┳┻┳┻┃┃┃'''┊┃┈┃┃
 ┻┳┻┳┻┳┃┃┃┈'''┃┈┃┃.
 ┳┻┳┻┳┻┣╋┫'''┊┣━╋┫
-┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰](t.me/mbbs_lover)
+┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰](@mbbs_lover)
 
+
+[MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
+ 
 
 
 
@@ -53,7 +56,7 @@ I ÃM YØUR ❤️LÖVELY FIGHTER BÖT™
 
   ▂▃▅▆😈MY CREATOR😈▆▅▃▂
 👇👇                 👇👇
- 🔱╚»★@MBBS_LOVER★«╝🔱
+ 🔱╚»★@MBBS__LOVER★«╝🔱
 HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
