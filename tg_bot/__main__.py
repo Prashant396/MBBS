@@ -27,7 +27,6 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-[MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
 
 ┳┻┳┻╭━━━━╮╱▔▔▔╲
 ┻┳┻┳┃╯╯╭━┫▏╰╰╰▕
@@ -59,6 +58,9 @@ HOI    {}, MY NAME IS {} !
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
 [MBBSLOVER](@mbbs_lover).
+
+[MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
+
 
 HIT HELP FOR COMMANDS  /help
 """
