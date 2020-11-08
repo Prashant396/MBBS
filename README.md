@@ -1,5 +1,5 @@
 
-# This is a official TELEGRAM BOT FOR RDX GANGA
+# This is a official MBBS MANAGER
 
 
 ***⚠️USE THIS REPO AT YOUR OWN RISK***
@@ -17,14 +17,14 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/gangsterkimng/RDX)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gangsterkimng/RDX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gangsterkimng/MBBS)
 
 
 
 
 
 ## Credits
-The Bot is for the tg fighter gang RDX
+The Bot is for MBBS GRP IT WILL HELP IN MANAGING
 
 
 
