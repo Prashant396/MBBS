@@ -27,8 +27,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-
-[┳┻┳┻╭━━━━╮╱▔▔▔╲
+┳┻┳┻╭━━━━╮╱▔▔▔╲
 ┻┳┻┳┃╯╯╭━┫▏╰╰╰▕
 ┳┻┳┻┃╯╯┃▔╰┓▔▂▔▕╮
 ┻┳┻┳╰╮╯┃┈╰┫╰━╯┏╯
@@ -43,31 +42,26 @@ PM_START_TEXT = """
 ┳┻┳┻┳┻┃┃┃'''┊┃┈┃┃
 ┻┳┻┳┻┳┃┃┃┈'''┃┈┃┃.
 ┳┻┳┻┳┻┣╋┫'''┊┣━╋┫
-┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰](@mbbs_lover)
-
-
-[MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)
- 
-
-
+┻┳┻┳┻╭╯╰╰-╭╯━╯.''╰╮
 
 I ÃM YØUR ❤️LÖVELY FIGHTER BÖT™
  ❤️ PÕwErfuLLY RELOADED TO CøNTRØL YÖúR GRøUPS  AñD YÕU TØ💉💉❤️
 
   ▂▃▅▆😈MY CREATOR😈▆▅▃▂
-👇👇                 👇👇
- 🔱╚»★@MBBS__LOVER★«╝🔱
+👇👇👇.                     👇👇👇
+🔱╚»★  PRASHANT ★«╝🔱
+
+
+
+❤️🧡💛💚💙🖤💙💚💛🧡❤️
+
+
+
 HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
 [MBBSLOVER](@mbbs_lover).
-
-<p align="center">
-    <a href="https://github.com/ayushop599/HellBot"><img src="https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg" alt="MBBS_LOVER" width=400px></a>
-        <br>
-            <br>
-            </p>
 
 HIT HELP FOR COMMANDS  /help
 """
