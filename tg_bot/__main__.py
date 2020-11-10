@@ -26,6 +26,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
+[![MBBS](https://telegra.ph/file/50a4ccf3a2068e53d68f2.jpg)]
+
 
 ┳┻┳┻╭━━━━╮╱▔▔▔╲
 ┻┳┻┳┃╯╯╭━┫▏╰╰╰▕
